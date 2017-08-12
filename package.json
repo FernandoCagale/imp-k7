@@ -1,0 +1,15 @@
+{
+  "name": "imp-k7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fernando-cagale <fernando.b.cagale@gmail.com> (https://github.com/FernandoCagale)",
+  "license": "ISC",
+  "dependencies": {
+    "k7": "git+https://github.com/FernandoCagale/k7.git",
+    "k7-sequelize": "git+https://github.com/FernandoCagale/k7-sequelize.git#v2"
+  }
+}
